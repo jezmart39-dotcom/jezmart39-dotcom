@@ -23,7 +23,7 @@ Soy un desarrollador apasionado en proceso de formación con un fuerte interés 
 ### Lenguajes Principales
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%27F57D.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend & UI/UX
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
