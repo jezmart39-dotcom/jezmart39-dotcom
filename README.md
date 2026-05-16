@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Jez Mart
+# 👋 ¡Hola! Soy Jez 
 
 **Desarrollador en Aprendizaje | Aspirante a Intern | Full Stack Developer en Formación**
 
